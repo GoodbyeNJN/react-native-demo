@@ -13,7 +13,7 @@
     },
     "dependencies": {
         "@ant-design/react-native": "^3.2.0",
-        "axios": "^0.19.0",
+        "axios": "^0.21.1",
         "beeshell": "^2.0.11",
         "react": "16.9.0",
         "react-native": "0.61.4",
